@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppStudentUI", "WpfAppStudentUI\WpfAppStudentUI.csproj", "{9E2DC74D-1921-49B2-AEDE-0A18FC20E156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentXmlApplication", "..\StudentXmlApplication\StudentXmlApplication\StudentXmlApplication.csproj", "{89907913-ED90-42FF-BF08-3BA08DD88D5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentXmlApplication", "StudentXmlApplication\StudentXmlApplication.csproj", "{89907913-ED90-42FF-BF08-3BA08DD88D5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
