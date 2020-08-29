@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentData>
+  <Student>
+    <StudentID>1</StudentID>
+    <StudentName>Kunal</StudentName>
+    <Subjects>
+      <Physics>34</Physics>
+      <Chemistry>56</Chemistry>
+      <Math>87</Math>
+      <Biology>90</Biology>
+    </Subjects>
+  </Student>
+  <Student>
+    <StudentID>2</StudentID>
+    <StudentName>Senthil</StudentName>
+    <Subjects>
+      <Physics>34</Physics>
+      <Chemistry>76</Chemistry>
+      <Math>27</Math>
+      <Biology>100</Biology>
+    </Subjects>
+  </Student>
+  <Student>
+    <StudentID>1</StudentID>
+    <StudentName>Rahul</StudentName>
+    <Subjects>
+      <Physics>34</Physics>
+      <Chemistry>56</Chemistry>
+      <Math>87</Math>
+      <Biology>90</Biology>
+    </Subjects>
+  </Student>
+</StudentData>

@@ -39,7 +39,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="StudentXmlApplication">
-      <HintPath>..\..\StudentXmlApplication\StudentXmlApplication\bin\Debug\StudentXmlApplication.exe</HintPath>
+      <HintPath>..\StudentXmlApplication\bin\Debug\StudentXmlApplication.exe</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
